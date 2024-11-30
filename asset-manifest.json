@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skilllab-milestone-1/static/css/main.0dfbc776.css",
+    "main.js": "/skilllab-milestone-1/static/js/main.f9e742b3.js",
+    "static/js/453.9b8256f7.chunk.js": "/skilllab-milestone-1/static/js/453.9b8256f7.chunk.js",
+    "index.html": "/skilllab-milestone-1/index.html",
+    "main.0dfbc776.css.map": "/skilllab-milestone-1/static/css/main.0dfbc776.css.map",
+    "main.f9e742b3.js.map": "/skilllab-milestone-1/static/js/main.f9e742b3.js.map",
+    "453.9b8256f7.chunk.js.map": "/skilllab-milestone-1/static/js/453.9b8256f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfbc776.css",
+    "static/js/main.f9e742b3.js"
+  ]
+}
